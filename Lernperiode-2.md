@@ -34,6 +34,11 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 - Laptop Checkup (Nach Updates usw. überprüfen).
 - Einige Übungsaufgaben mit Arrays und Listen lösen.
 - Ein kleines C#-Projekt probieren zu erstellen.
+### Reflexion: Heute habe ich die meisten Aufgaben erfüllt, die erfüllen wollte aber das mit dem Projekt konnte ich noch nicht umsetzen, da ich noch nicht so gut wusste wie ich das machen soll.
+## Planung 31.10.25
+- C#-Projekt erstellen. (Taschenrechner).
+- Neuen Modul Arbeiten (Weiss noch nicht welches).
+  
  
 
 
