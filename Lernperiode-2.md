@@ -26,8 +26,8 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig erstellen.
  
 ## Planung 17.10.25
-- [ ] Weiter am 431 arbeiten.
-- [ ] 319 anschauen und für die prüfung vorbereiten
+- [x] Weiter am 431 arbeiten.
+- [x] 319 anschauen und für die prüfung vorbereiten
 ### Reflexion: Heute habe ich konzentriert gearbeitet und war voll an der sache, ich habe 431 fast beendet und 319 repetiert, bin vorbereitet für die prüfung. Ich werde mir aufjedenfall die Zeit nächstes mal schlauer einteilen und struktuierten arbeiten.
 
 ## Planung 24.10.25
