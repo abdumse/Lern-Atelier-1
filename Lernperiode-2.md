@@ -36,8 +36,12 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 - [ ] Ein kleines C#-Projekt probieren zu erstellen.
 ### Reflexion: Heute habe ich die meisten Aufgaben erfüllt, die erfüllen wollte aber das mit dem Projekt konnte ich noch nicht umsetzen, da ich noch nicht so gut wusste wie ich das machen soll.
 ## Planung 31.10.25
-- [ ] C#-Projekt erstellen. (Taschenrechner).
-- [ ] Neuen Modul Arbeiten (Weiss noch nicht welches).
+- [x] Modul 162 arbeiten.
+- [x] Am Projekt mit Janis weiterarbeiten.
+### Reflexion: Heute habe ich mit Janis am Projekt weitergearbeitetl, wir müssen aber noch was machen undzwar noch herr fournier schreiben wegen einer Aufgabe, weil er zuständig ist für uns. Am Modul 162 konnte ich auch gut vorankommen, ich habe mir präsentation angeschaut um das von dienstag besser zu verstehen und dazu die aufgaben gelöst.
+## Planung 7.11.25
+- [ ] Weiter Am Projekt von Frau Dillier arbeiten mit Janis.
+- [ ] Wie davor am Modul 162 arbeiten.
   
  
 
