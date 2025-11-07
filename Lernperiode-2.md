@@ -40,8 +40,13 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 - [x] Am Projekt mit Janis weiterarbeiten.
 ### Reflexion: Heute habe ich mit Janis am Projekt weitergearbeitetl, wir müssen aber noch was machen undzwar noch herr fournier schreiben wegen einer Aufgabe, weil er zuständig ist für uns. Am Modul 162 konnte ich auch gut vorankommen, ich habe mir präsentation angeschaut um das von dienstag besser zu verstehen und dazu die aufgaben gelöst.
 ## Planung 7.11.25
-- [ ] Weiter Am Projekt von Frau Dillier arbeiten mit Janis.
-- [ ] Wie davor am Modul 162 arbeiten.
+- [x] Weiter Am Projekt von Frau Dillier arbeiten mit Janis.
+- [x] Wie davor am Modul 162 arbeiten.
+### Reflexion: Janis und ich haben am Hypothekrechner gearbeitet, ich habe die projektplanung ein bisschen angepasst. Heute habe ich auch bisschen im C# Buch gelesen. Am Modul 162 konnte ich an den Aufgaben 1734 und 1735 arbeiten. Johannes hat mir ein paar Techniken beigebracht im Coding für den Hypotherechner.
+## Planung 14.11.25
+- [ ] Am Hypothekerechner weiterarbeiten mit Janis
+- [ ] Modul 162 weiterbearbeiten
+- [ ] C# Buch Seiten lesen
   
  
 
