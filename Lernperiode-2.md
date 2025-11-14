@@ -44,10 +44,14 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 - [x] Wie davor am Modul 162 arbeiten.
 ### Reflexion: Janis und ich haben am Hypothekrechner gearbeitet, ich habe die projektplanung ein bisschen angepasst. Heute habe ich auch bisschen im C# Buch gelesen. Am Modul 162 konnte ich an den Aufgaben 1734 und 1735 arbeiten. Johannes hat mir ein paar Techniken beigebracht im Coding für den Hypotherechner.
 ## Planung 14.11.25
-- [ ] Am Hypothekerechner weiterarbeiten mit Janis
-- [ ] Modul 162 weiterbearbeiten
+- [x] Am Hypothekerechner weiterarbeiten mit Janis
+- [x] Modul 162 weiterbearbeiten
 - [ ] C# Buch Seiten lesen
-  
+### Reflexion: Heute habe ich am Hypothekenrechner gearbeitet, wir haben im Visual Studios Code, an unseren tatkiten gearbeitet, besser gesagt wollten das Aussehen vom Projekt verbessern, dass es cleaner aussieht und nicht wie ein Misch Masch. Zusätzlich habe ich die Aufgaben vom Dienstag fertig gemacht und nicht weiter am 162 gerarbeitet, weil ich mich auf das Projekt fokussiert habe. Am C# Buch habe ich heute nichts gemach/gelesen, dies weil ich heute keine Motiviation hatte, am Buch zu lesen.
+## Planung 21.11.25
+- [ ] Visual Studios (projekt) programmieren
+- [ ] Powerpoint präsentation vorbereiten für die Vorstellung des Projekts
+- [ ] Nicht fertig erarbeitete Aufgaben im Modul 162 fertigm machen
  
 
 
