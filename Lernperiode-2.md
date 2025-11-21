@@ -50,8 +50,13 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 ### Reflexion: Heute habe ich am Hypothekenrechner gearbeitet, wir haben im Visual Studios Code, an unseren tatkiten gearbeitet, besser gesagt wollten das Aussehen vom Projekt verbessern, dass es cleaner aussieht und nicht wie ein Misch Masch. Zusätzlich habe ich die Aufgaben vom Dienstag fertig gemacht und nicht weiter am 162 gerarbeitet, weil ich mich auf das Projekt fokussiert habe. Am C# Buch habe ich heute nichts gemach/gelesen, dies weil ich heute keine Motiviation hatte, am Buch zu lesen.
 ## Planung 21.11.25
 - [ ] Visual Studios (projekt) programmieren
-- [ ] Powerpoint präsentation vorbereiten für die Vorstellung des Projekts
-- [ ] Nicht fertig erarbeitete Aufgaben im Modul 162 fertigm machen
+- [x]Powerpoint präsentation vorbereiten für die Vorstellung des Projekts
+- [x] Nicht fertig erarbeitete Aufgaben im Modul 162 fertigm machen
+### Reflexion: Heute habe ich die ersten Powerpoint slides erstellt, die wir in 2 zwei Wochen vorstellen müssen. Unser Projekt ist auch fertiggestellt. Janis und ich haben das gui fertiggestellt, es läuft alles so wie wir uns es vorgestellt haben. Am Modul 162 habe ich Datenmodelleriung repetiert, da ich es am Dienstag nicht so gut verstanden habe. Am Visual Stuidos projekt habe ich nicht programmiert, weil das Janis gemacht hat heute.
+## Planung 28.11.25
+- [ ] Powerpoint komplett durchegehen und üben
+- [ ] Am Modul 162 die nicht erledigten aufgaben erledigen
+
  
 
 
