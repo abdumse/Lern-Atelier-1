@@ -54,8 +54,13 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 - [x] Nicht fertig erarbeitete Aufgaben im Modul 162 fertigm machen
 ### Reflexion: Heute habe ich die ersten Powerpoint slides erstellt, die wir in 2 zwei Wochen vorstellen müssen. Unser Projekt ist auch fertiggestellt. Janis und ich haben das gui fertiggestellt, es läuft alles so wie wir uns es vorgestellt haben. Am Modul 162 habe ich Datenmodelleriung repetiert, da ich es am Dienstag nicht so gut verstanden habe. Am Visual Stuidos projekt habe ich nicht programmiert, weil das Janis gemacht hat heute.
 ## Planung 28.11.25
-- [ ] Powerpoint komplett durchegehen und üben
-- [ ] Am Modul 162 die nicht erledigten aufgaben erledigen
+- [x] Powerpoint bearbeiten und weiterführen.
+- [x] Präsentieren Üben
+### Reflexion: Heute habe ich die Präsentation gemacht aber noch nicht beendet, der testfallbericht muss noch drauf und die endfolie. Wir konnten leider nicht so gut an der Präsentation heute arbeiten da wird nicht die möglichkeit hatten, den laser zu benutzen, dennoch haben wir über den Bildschirmen im Quitespaceroom geübt. Die Aufgaben vom Modul 162 konnte ich noch nicht bearbeiten, da ich vollen fokus auf die präsentation gesetzt habe. Nächsten Freitag werde ich da arbeiten, weil wir noch nicht im neuen Modul beginnen bei Frau Dillier.
+## Planung 05.12.25
+- [ ] Modul 162 Aufgaben Fertig stellen
+
+
 
  
 
