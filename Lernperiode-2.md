@@ -58,7 +58,11 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 - [x] Präsentieren Üben
 ### Reflexion: Heute habe ich die Präsentation gemacht aber noch nicht beendet, der testfallbericht muss noch drauf und die endfolie. Wir konnten leider nicht so gut an der Präsentation heute arbeiten da wird nicht die möglichkeit hatten, den laser zu benutzen, dennoch haben wir über den Bildschirmen im Quitespaceroom geübt. Die Aufgaben vom Modul 162 konnte ich noch nicht bearbeiten, da ich vollen fokus auf die präsentation gesetzt habe. Nächsten Freitag werde ich da arbeiten, weil wir noch nicht im neuen Modul beginnen bei Frau Dillier.
 ## Planung 05.12.25
-- [ ] Modul 162 Aufgaben Fertig stellen
+- [x] Modul 162 Aufgaben Fertig stellen
+### Reflexion: Ich war krank letze woche! Heute habe ich am neuen Modul 117 gearbeitet und auf draw io netwerke gezeichnet. Am neuen Modul von Herr Schmidt konnte ich noch nicht arbeiten, da wir am dienstag erst die prüfung hatten. Ich habe Nachweise im Modul 117 bearbeitet und gelöst.
+## Planung 19.12.5
+- [ ] Modul 117 Arbeiten
+- [ ] Modul von Herr Schmidt arbeiten
 
 
 
