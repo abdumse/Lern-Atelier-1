@@ -63,9 +63,14 @@ Konzentrierter an der sache sein und nicht ablenken lassen. Github sorgäfltig e
 ## Planung 19.12.5
 - [ ] Modul 117 Arbeiten
 - [ ] Modul von Herr Schmidt arbeiten
+### Reflexion Lern-Periode 2
+In dieser Lernperiode habe ich an mehreren Modulen und Projekten gearbeitet, vor allem an Modul 162, Modul 117 und am C#-Projekt (Hypothekenrechner) mit Janis. Insgesamt konnte ich gute Fortschritte erzielen und habe viel Neues gelernt.
 
+Besonders die Projektarbeit hat mir geholfen, meine Programmierkenntnisse in C# zu verbessern und im Team besser zu arbeiten. Die Zusammenarbeit mit Janis funktionierte gut, und wir konnten das Projekt erfolgreich fertigstellen. Auch bei den Präsentationen habe ich gelernt, Inhalte besser zu strukturieren und vorzutragen.
 
+Beim Modul 162 kam ich grösstenteils gut voran, musste jedoch einige Themen repetieren. Teilweise habe ich Aufgaben verschoben, da ich mich stark auf das Projekt konzentriert habe. Das zeigte mir, dass ich meine Zeitplanung noch verbessern sollte. Gegen Ende der Lernperiode begann ich mit Modul 117, wo ich erste Aufgaben und Netzwerke bearbeitet habe, trotz einer krankheitsbedingten Pause.
 
+Zusammenfassend war die Lernperiode lehrreich und erfolgreich. Für die nächste Lernperiode möchte ich strukturierter arbeiten, meine Zeit besser einteilen und Aufgaben konstanter erledigen.
  
 
 
