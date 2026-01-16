@@ -18,3 +18,8 @@ Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode ler
 
 Generelle Ziele
 Ich möchte in dieser Lernperiode konzentrierter im Unterricht arbeiten und mich weniger ablenken lassen. Dafür will ich mich besser auf Prüfungen und Abgaben vorbereiten und meine Aufgaben sorgfältiger erledigen. Besonders wichtig ist mir ein sauberer und strukturierter Umgang mit GitHub. Durch diese Verbesserungen möchte ich meine Leistungen steigern und meinen Notendurchschnitt auf eine 5 erhöhen.
+## Planung 16.01.26
+- [ ] Modul 117 Handlungsziel 3-7 Arbeiten
+### Reflexion: Heute habe ich am Modul 117 gearbeitet wo es um informatik - und netzinfrastruktur geht. Am Mittwoch habe ich HZ 1 und 2 abgegeben, und heute hatte ich vor 3-7 zu machen, jedoch kontne ich nur an 3-4 arbeiten und 3 komplett verwollständigen, alle Nachweise gemacht, bei HZ 4 konnte ich nicht so weit kommen wie bei 3. Ich werde nächste woche weiter an diesem Modul arbeiten
+## Planung 23.01.26
+- [ ] Modul 117 Handlungsziel 4 arbeiten.
