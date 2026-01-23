@@ -23,3 +23,8 @@ Ich möchte in dieser Lernperiode konzentrierter im Unterricht arbeiten und mich
 ### Reflexion: Heute habe ich am Modul 117 gearbeitet wo es um informatik - und netzinfrastruktur geht. Am Mittwoch habe ich HZ 1 und 2 abgegeben, und heute hatte ich vor 3-7 zu machen, jedoch kontne ich nur an 3-4 arbeiten und 3 komplett verwollständigen, alle Nachweise gemacht, bei HZ 4 konnte ich nicht so weit kommen wie bei 3. Ich werde nächste woche weiter an diesem Modul arbeiten
 ## Planung 23.01.26
 - [ ] Modul 117 Handlungsziel 4 arbeiten.
+### Reflexion:
+Heute habe ich am Modul 117 gearbeitet, welches sich mit Netzinfrastruktur befasst. Ich konnte an den Handlungszielen 3 und 4 arbeiten. Handlungsziel 3 habe ich vollständig abgeschlossen und alle erforderlichen Nachweise erstellt. Bei Handlungsziel 4 konnte ich weniger Fortschritte erzielen als geplant.Nach den Ferien werde ich weiter an diesem Modul arbeiten.
+## Planung nach den ferien
+- [ ] Modul 117 Handlungsziel 4 weiterbearbeiten
+- [ ] Offene Aufgaben und Nachweise abschliessen
