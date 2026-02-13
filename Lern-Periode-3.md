@@ -28,3 +28,8 @@ Heute habe ich am Modul 117 gearbeitet, welches sich mit Netzinfrastruktur befas
 ## Planung nach den ferien
 - [ ] Modul 117 Handlungsziel 4 weiterbearbeiten
 - [ ] Offene Aufgaben und Nachweise abschliessen
+## Planung 13.02.26
+- [x] Modul 117 Handlungsziel 4 bearbeiten
+- [x] Logisches Datenmodell für Modul 164 erstellen
+### Reflexion:
+Heute habe ich am Modul 117 gearbeitet und die Handlungsziele teilweise bearbeitet. Ich konnte mehrere Nachweise erfolgreich lösen und dokumentieren, was mir ein gutes Verständnis der Aufgaben verschafft hat. Ausserdem habe ich für Modul 164 ein logisches Datenmodell erstellt, was mir geholfen hat, die Struktur der Daten und Zusammenhänge besser zu verstehen. Bei Handlungsziel 4 von Modul 117 konnte ich noch nicht alle Aufgaben abschliessen, daher ich nächste Woche weiter zu arbeiten um die offenen Punkte zu bearbeiten und die Nachweise vollständig zu erstellen.
