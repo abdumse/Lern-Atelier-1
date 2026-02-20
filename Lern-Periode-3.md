@@ -33,3 +33,9 @@ Heute habe ich am Modul 117 gearbeitet, welches sich mit Netzinfrastruktur befas
 - [x] Logisches Datenmodell für Modul 164 erstellen
 ### Reflexion:
 Heute habe ich am Modul 117 gearbeitet und die Handlungsziele teilweise bearbeitet. Ich konnte mehrere Nachweise erfolgreich lösen und dokumentieren, was mir ein gutes Verständnis der Aufgaben verschafft hat. Ausserdem habe ich für Modul 164 ein logisches Datenmodell erstellt, was mir geholfen hat, die Struktur der Daten und Zusammenhänge besser zu verstehen. Bei Handlungsziel 4 von Modul 117 konnte ich noch nicht alle Aufgaben abschliessen, daher ich nächste Woche weiter zu arbeiten um die offenen Punkte zu bearbeiten und die Nachweise vollständig zu erstellen.
+## Planung 20.02.26
+- [x] Modul 117
+- [ ] Netzwerklabor
+- [x] LB 164
+### Reflexion: 
+Heute habe ich am Modul 117 gearbeitet, an der Aufgabe 1722, wir wollte mit der Gruppe noch am Netzwerklabor arbeiten, wir kamen jedoch nicht dazu. Ich habe weiter noch am LB gearbeitet die wir nächste woche abgeben müssen. 
