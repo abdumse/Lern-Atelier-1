@@ -39,3 +39,7 @@ Heute habe ich am Modul 117 gearbeitet und die Handlungsziele teilweise bearbeit
 - [x] LB 164
 ### Reflexion: 
 Heute habe ich am Modul 117 gearbeitet, an der Aufgabe 1722, wir wollte mit der Gruppe noch am Netzwerklabor arbeiten, wir kamen jedoch nicht dazu. Ich habe weiter noch am LB gearbeitet die wir nächste woche abgeben müssen. 
+## Planung 27.02.26
+- [x] KI's ausprobieen
+- [x] Taschenrechner programmieren
+### Reflexion: Heute konnte ich nicht an einem bestimmten Modul arbeiten, da wir diese kurz davor abgeschlossen haben. Deswegen habe ich mir die gedanken gemacht mit Edim neue KI's auszuprobieren. Ich habe unteranderem auch versucht irgendetwas zu programmierne mithilfe von KI, dies hat eigentlich noch gut gelofen, aber ich hätte es niemals ohne KI geschafft.
