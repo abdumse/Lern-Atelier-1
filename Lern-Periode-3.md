@@ -43,3 +43,6 @@ Heute habe ich am Modul 117 gearbeitet, an der Aufgabe 1722, wir wollte mit der 
 - [x] KI's ausprobieen
 - [x] Taschenrechner programmieren
 ### Reflexion: Heute konnte ich nicht an einem bestimmten Modul arbeiten, da wir diese kurz davor abgeschlossen haben. Deswegen habe ich mir die gedanken gemacht mit Edim neue KI's auszuprobieren. Ich habe unteranderem auch versucht irgendetwas zu programmierne mithilfe von KI, dies hat eigentlich noch gut gelofen, aber ich hätte es niemals ohne KI geschafft.
+## Planung 06.03.26
+- [x] Modul 187
+Heute habe ich am neuen Modul 187 weiter gerarbeitet. 
