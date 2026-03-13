@@ -45,4 +45,9 @@ Heute habe ich am Modul 117 gearbeitet, an der Aufgabe 1722, wir wollte mit der 
 ### Reflexion: Heute konnte ich nicht an einem bestimmten Modul arbeiten, da wir diese kurz davor abgeschlossen haben. Deswegen habe ich mir die gedanken gemacht mit Edim neue KI's auszuprobieren. Ich habe unteranderem auch versucht irgendetwas zu programmierne mithilfe von KI, dies hat eigentlich noch gut gelofen, aber ich hätte es niemals ohne KI geschafft.
 ## Planung 06.03.26
 - [x] Modul 187
-Heute habe ich am neuen Modul 187 weiter gerarbeitet. 
+Heute habe ich am neuen Modul 187 weiter gerarbeitet.
+## Planung 14.03.26
+- [x] Modul 106 Aufgabe 2402
+- [x] Modul 106 Aufgbae 2403
+- [x] Modul 187 Relfextieren vom Mittwoch
+### Wie bei der Checkliste konnte ich heute Lernatelier alle Aufgaben sorgfältig lösen, ich hatte bisschen schwierigkeiten bei der Aufgabe 2403, der liebe Edim hat mir dann geholfen und ich konnte diese Aufgba letztendlich auch beenden. Bei der Modul 187 relfexion, habe ich mit edim die aufgaben wieder angeschaut, die wir zusammen im Unterricht gelöst haben. 
