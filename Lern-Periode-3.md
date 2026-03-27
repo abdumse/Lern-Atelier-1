@@ -51,3 +51,13 @@ Heute habe ich am neuen Modul 187 weiter gerarbeitet.
 - [x] Modul 106 Aufgbae 2403
 - [x] Modul 187 Relfextieren vom Mittwoch
 ### Wie bei der Checkliste konnte ich heute Lernatelier alle Aufgaben sorgfältig lösen, ich hatte bisschen schwierigkeiten bei der Aufgabe 2403, der liebe Edim hat mir dann geholfen und ich konnte diese Aufgba letztendlich auch beenden. Bei der Modul 187 relfexion, habe ich mit edim die aufgaben wieder angeschaut, die wir zusammen im Unterricht gelöst haben. 
+## Planung 20.03.26
+- [x] Modul 187 arbeiten
+- [x] Modul 106 abgaben erleding (1 oder 2)
+- [x] Neue Ideen suchen, was zu machen im Lernatelier
+Heute konnte ich alle meine Aufgaben erledigen, jedoch habe ich im Modul 106 nur 1 Abgabe getätigt. Im Modul 187 habe ich repetiert, was ubuntu ist, wie man Windows 10 startet, und nochmals angeschaut was Hardware und Software genau ist. Nach dem Gespräch mit Herr Thut, habe ich mir einpaar Gedanken gemacht, woran ich arbeiten könnte im Lernatelier, z.B. an Java bisschen rumprobieren, damit ich für das Praktikum meine Arbeiten dazulegen kann.
+## Planung 27.03.26
+- [ ] Kurz Modul 187 repetieren
+- [ ] Java ausprobieren (Youtube Videos anschauen)
+- [ ] Excel besser verstehen und anwenden können
+- [ ] Nach Projekt Ideen Rechechieren
